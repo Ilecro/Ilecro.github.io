@@ -1,57 +1,57 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to Ilecro!
+    text: Develop Software Your Business Needs
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    # text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "ERP & CRM Systems"
+        desc: "Existing software solutions do not fulfill your needs? We are here to help."
+        icon: fas fa-handshake #find more at https://fontawesome.com/icons
+      - title: "Process Automation"
+        desc: "We will assist you to save costs and gain efficiency via automation."
+        icon: fas fa-cogs       
+      - title: "Software Integration"
+        desc: "No need to manually move the data from one system to another. [Contact us](#contact)."
+        icon: fas fa-link
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "A few examples from our recent work"
     section: portfolio
     
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "Timeline highlights"
     section: timeline
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        desc: "Family friend of [Luka](#team) asked us to build warehousing software for his newly opened clinic in Georgia, Tbilisi."
+        image: assets/img/timeline/tbilisi.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
+      - title: "Softvivarium is Born"
         year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        desc: "Our sister company Softvivarium started offering SaaS ERP solutions for local hospitals and clinics."
+        image: assets/img/timeline/softvivarium.png
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
+      - title: "Gaining momentum"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+        desc: "Largest hospital in Georgia became our customer. We are providing SaaS ERP service to 35 healthcare institutions in Georgia."
+        image: assets/img/timeline/resp.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Going international"
+        year: "2021"
+        desc: "Ilecro LTD established and incorporated in US." 
+        image: assets/img/timeline/statue_of_liberty.jpg
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
@@ -61,53 +61,33 @@ about:
     text: "our story"
     section: about
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+# clients:
+#     section: clients
+#     max-height: 100px
+#     horizontal-scrolling: "" #"yes/no"
+#     list:
+#       - title: "envato"
+#         url: #
+#         logo: assets/img/clients/envato.jpg
+#       - title: "designmodo"
+#         url: #
+#         logo: assets/img/clients/designmodo.jpg
+#       - title: "themeforest"
+#         url: #
+#         logo: assets/img/clients/themeforest.jpg
+#       - title: "Creative Market"
+#         url: #
+#         logo: assets/img/clients/creative-market.jpg
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Who we are."
+    subtext: We’re a company of creative thinkers, innovators and problem solvers. We are committed to help our customers to advance their business goals through automation and custom software solutions. 
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Data Mania"
         role: "Lead Developer"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/data.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -115,10 +95,30 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-          
+      - name: "Luka Megrelidze"
+        role: "CEO"
+        image: assets/img/team/luka.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Michael Leonidze"
+        role: "Software Designer"
+        image: assets/img/team/misha.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Submit the form or call +1 ‪(707) 408-3963"
     section: contact
     
 footer:
@@ -130,7 +130,7 @@ footer:
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: #
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"

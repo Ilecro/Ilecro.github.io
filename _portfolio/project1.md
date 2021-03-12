@@ -1,18 +1,15 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Funji
+subtitle: Online Collaborative Whiteboard.
+image: assets/img/portfolio/01-funji-full.png
+alt: Online Collaborative Whiteboard Website Thumbnail
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Funji
+  subtitle: Online Collaborative Whiteboard.
+  thumbnail: assets/img/portfolio/01-funji-thumbnail.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+In-browser collaborative whiteboard. For teachers, students or anyone who likes to share drawings and ideas.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
-
+- Date: 2019

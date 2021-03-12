@@ -12,15 +12,15 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+remote_theme: kilavagora/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author     : Your Name
+title      : Ilecro
+email      : info@ilecro.com #this is also the email contact forms will go to
+description: "Ilecro is building custom ERP, CRM solutions and automation software. Automate manual tasks, grow your business with us."
+author     : Ilecro
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
@@ -35,3 +35,5 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+
+form_path: https://solitary-river-85f0.nse.workers.dev/
