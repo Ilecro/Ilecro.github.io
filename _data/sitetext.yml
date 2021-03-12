@@ -1,6 +1,6 @@
 header:
     title: Welcome to Ilecro!
-    text: Develop Software Your Business Needs
+    text: Developing software for your business needs
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
