@@ -44,7 +44,7 @@ timeline:
         align: right
       - title: "Gaining momentum"
         year: "2019"
-        desc: "Largest hospital in Georgia became our customer. We are providing SaaS ERP service to 35 healthcare institutions in Georgia."
+        desc: "The largest hospital in Georgia became our customer. We are providing SaaS ERP service to 35 healthcare institutions in Georgia."
         image: assets/img/timeline/resp.jpg
         alt: 
         #align: #default is left       
@@ -82,7 +82,7 @@ about:
 team:
     title: "OUR AMAZING TEAM"
     text: "Who we are."
-    subtext: We’re a company of creative thinkers, innovators and problem solvers. We are committed to help our customers to advance their business goals through automation and custom software solutions. 
+    subtext: We’re a company of creative thinkers, innovators and problem solvers. We are committed to help our customers advance their business goals through automation and custom software solutions. 
     section: team
     people:
       - name: "Data Mania"
