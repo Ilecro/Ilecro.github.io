@@ -47,7 +47,7 @@ timeline:
         desc: "The largest hospital in Georgia became our customer. We are providing SaaS ERP service to 35 healthcare institutions in Georgia."
         image: assets/img/timeline/resp.jpg
         alt: 
-        #align: #default is left       
+        align: left #default is left       
       - title: "Going international"
         year: "2021"
         desc: "Ilecro LTD was established and incorporated in the US." 
