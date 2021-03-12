@@ -10,13 +10,13 @@ services:
     section: services
     list:
       - title: "ERP & CRM Systems"
-        desc: "Existing software solutions do not fulfill your needs? We are here to help."
+        desc: "Existing software solutions do not fulfill your needs? We build custom software solutions that are just right for you."
         icon: fas fa-handshake #find more at https://fontawesome.com/icons
       - title: "Process Automation"
         desc: "We will assist you to save costs and gain efficiency via automation."
         icon: fas fa-cogs       
       - title: "Software Integration"
-        desc: "No need to manually move the data from one system to another. [Contact us](#contact)."
+        desc: "Eliminate redundant data entry. We will connect your apps. [Contact us](#contact)!"
         icon: fas fa-link
 
 portfolio:
@@ -32,7 +32,7 @@ timeline:
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
-        desc: "Family friend of [Luka](#team) asked us to build warehousing software for his newly opened clinic in Georgia, Tbilisi."
+        desc: "A family friend of [Luka](#team) asked us to build warehousing software for his newly opened clinic in Georgia, Tbilisi."
         image: assets/img/timeline/tbilisi.jpg
         alt: 
         align: left
@@ -46,11 +46,11 @@ timeline:
         year: "2019"
         desc: "Largest hospital in Georgia became our customer. We are providing SaaS ERP service to 35 healthcare institutions in Georgia."
         image: assets/img/timeline/resp.jpg
-        alt: image alt text
+        alt: 
         #align: #default is left       
       - title: "Going international"
         year: "2021"
-        desc: "Ilecro LTD established and incorporated in US." 
+        desc: "Ilecro LTD was established and incorporated in the US." 
         image: assets/img/timeline/statue_of_liberty.jpg
         alt: 
         align: right
