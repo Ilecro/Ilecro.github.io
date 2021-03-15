@@ -50,7 +50,7 @@ timeline:
         align: left #default is left       
       - title: "Going international"
         year: "2021"
-        desc: "Ilecro LTD was established and incorporated in the US." 
+        desc: "Ilecro LLC was established and incorporated in the US."
         image: assets/img/timeline/statue_of_liberty.jpg
         alt: 
         align: right
