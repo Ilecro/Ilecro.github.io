@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-remote_theme: kilavagora/agency-jekyll-theme
+remote_theme: kilavagora/agency-jekyll-theme@develop
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -21,8 +21,8 @@ title      : Ilecro
 email      : info@ilecro.com #this is also the email contact forms will go to
 description: "Ilecro is building custom ERP, CRM solutions and automation software. Automate manual tasks, grow your business with us."
 author     : Ilecro
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
+logo:     #optional, defaults to site title
+ path: assets/img/logo/top-left.png
   # height: 60 #height in px, defaults to 52px
 
 analytics:
