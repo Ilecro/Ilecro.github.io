@@ -36,4 +36,4 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
-form_path: https://contact.ilecro.workers.dev/
+form_path: /forms/contactus/
